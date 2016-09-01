@@ -1,4 +1,5 @@
 @import url('https://fonts.googleapis.com/css?family=Oswald:700|Playfair+Display+SC');
 h1 {
-  font-family: Playfair Display SC;
+  text-align:center;
+  word-spacing: 30px
 }
