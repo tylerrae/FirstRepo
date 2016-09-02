@@ -1,5 +1,11 @@
 @import url('https://fonts.googleapis.com/css?family=Oswald:700|Playfair+Display+SC');
 h1 {
+  font-family: arial black;
   text-align:center;
   word-spacing: 30px
+}
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
 }
