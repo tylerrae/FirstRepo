@@ -9,3 +9,14 @@ img {
   margin-left: auto;
   margin-right: auto;
 }
+nav {
+  font-family: arial;
+  color: black;
+  text-align:center;
+  word-spacing: 50px
+}
+a:hover {
+    color: pink;
+    text-decoration: black;
+
+}
