@@ -15,8 +15,24 @@ nav {
   text-align:center;
   word-spacing: 50px
 }
+a:link {
+    text-decoration: none;
+}
+
+a:visited {
+    text-decoration: none;
+}
 a:hover {
     color: pink;
     text-decoration: black;
 
+}
+body {
+  text-align: center;
+}
+ol {
+  text-align: left;
+}
+ul {
+  text-align: left;
 }
