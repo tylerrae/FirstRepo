@@ -30,7 +30,7 @@ a:hover {
 body {
   text-align: center;
   font-family: 'Helvetica Neue',Helvetica,Arial,sans-serif;
-  font-size: 100%
+  font-size: 100%;
 }
 ol {
   text-align: left;
@@ -40,4 +40,20 @@ ul {
 }
 #very {
   text-align: left;
+}
+h3 {
+  font-size: 125%;
+}
+#ver {
+  margin-left: auto;
+  margin-right: auto;
+}
+#head {
+  font-size: 125%;
+}
+h4 {
+  font-size: 150%;
+}
+#link {
+  margin-right: auto;
 }
