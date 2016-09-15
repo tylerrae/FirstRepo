@@ -1,7 +1,7 @@
 @import url("https://fonts.googleapis.com/css?family=Amatic+SC");
 h1 {
   font-family: arial black;
-  text-align:center;
+  text-align: center;
   word-spacing: 30px;
   font-size: 350%;
 }
@@ -13,7 +13,7 @@ nav {
   color: black;
   text-align:center;
   word-spacing: 50px;
-  font-size: 125%;
+  font-size: 190%;
 }
 body {
   text-align: center;
@@ -45,11 +45,11 @@ h4 {
 a:link, a:visited {
     color: black;
     padding: 14px 25px;
-    text-align: center;
     text-decoration: none;
     display: inline-block;
     font-family: Amatic Sc;
-    font-size: 190%;
+    text-align: left;
+    font-size: 150%
 }
 a:hover, a:active {
     color: pink;
